@@ -11,7 +11,7 @@
       </ul>
     <li>Passo2: Verificar se o Yarn está instalado</li>
       <ul>
-        <li>Use o comando de verifição: yarn -v</li>
+        <li>Use dentro do git bash o comando de verifição: yarn -v</li>
         <li>Se aparcer uma numeração abaixo quer dizer que está instalado</li>
         <li>Se não estiver instalado use o comando no git bash: npm install --global yarn</li>
       </ul>
