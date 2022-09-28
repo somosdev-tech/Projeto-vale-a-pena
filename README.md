@@ -17,7 +17,7 @@
       </ul>
     <li>Passo3: Abra a pasta Projeto-vale-a-pena(pasta do repositório)</li>
     <li>Passo4: Abra a pasta frontend</li>
-    <li>Passo5: Dentro da pasta frontend abra o git bash</li>
+    <li>Passo5: Dentro da pasta frontend abra o git start</li>
     <li>Passo6: Para baixar as dependências, no git bash digite o comando: Yarn</li>
     <li>Passo7: Digite o comando: yarn dev</li>
     <li>Passo8: Abra o google chrome</li>
